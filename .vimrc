@@ -18,11 +18,6 @@ syntax enable
 set fillchars=vert:│    " that's a vertical box-drawing character
 autocmd ColorScheme * highlight VertSplit cterm=NONE ctermbg=NONE guibg=NONE
 
-" Pathogen
-call pathogen#infect()
-call pathogen#helptags()
-Helptags
-
 " airline
 let g:airline_theme='gruvbox'
 let g:airline_powerline_fonts = 1

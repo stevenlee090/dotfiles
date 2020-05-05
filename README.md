@@ -8,6 +8,8 @@ Currently only the following config files are included:
 
 * vim
 * tmux
+* yabairc (macOS tiling window manager)
+* skhd (macOS tiling window manager hotkey bindings)
 
 ## tmux config
 
